@@ -1,0 +1,13 @@
+#c_left  {
+	width:730px; 
+	height: 500px;
+	border-radius:1px;
+	background: url("../images/heart.png") no-repeat;
+}
+#c_left p {
+	position: relative;
+	top: 180px;
+	left: 150px;
+	font-size: 18px;
+	color: #000;
+}
