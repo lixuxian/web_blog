@@ -5,7 +5,7 @@
 body{
 	font-size:14px;
 	font-family:"微软雅黑";
-	background:#E3E3E5 url(../images/bg.jpg)  50% top scroll no-repeat;
+	background:#E3E3E5 url("../images/bg.jpg")  50% top scroll no-repeat;
 	color:#5d5d5d;
 }
 a{
@@ -55,9 +55,12 @@ li{
 }
 
 #nav{
-	width:1200px;
+	width:1025px;
 	margin-left: 155px;
 	margin-top: 50px; 
+	background-color: #E0EEEE;
+	opacity: 0.6;	
+	border-radius: 3px;
 }
 #nav ul li{
 	width:140px;
